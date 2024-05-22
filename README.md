@@ -1,6 +1,10 @@
 # on-my-way-to-swe
+
 Simple repository to conference about SWE career path
 
+# slides url
+
+[slides](https://stivencardona.github.io/on-my-way-to-swe)
 
 # structure
 
