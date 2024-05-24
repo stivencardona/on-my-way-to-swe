@@ -2,7 +2,7 @@ def binary_search(p, q):
     low = 1
     hight = p + 1
     while (hight - low) > 1:
-        mid = (low + hight) // 2
+        mid = (low + hight) >> 1
         if q * mid > p:
             hight = mid
         else:
